@@ -17,11 +17,7 @@
     </properties>
 
     <modules>
-        <module>inventory-service</module>
-      <module>order-service</module>
-    <module>cart-service</module>
     <module>payment-service</module>
-    <module>customer-service</module>
   </modules>
 
     <build>
